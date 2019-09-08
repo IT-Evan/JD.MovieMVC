@@ -34,8 +34,8 @@ F5运行即可.
 3. 提交代码
 4. 新建 Pull Request
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113304_2a16b393_2265734.png "JD.MovieRazor1.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113314_510f26d8_2265734.png "JD.MovieRazor2.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113342_e21c7842_2265734.png "JD.MovieRazor3.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113354_0a0b6a18_2265734.png "JD.MovieRazor4.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/113403_52cdde6a_2265734.png "JD.MovieRazor5.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/155221_b1ce68bd_2265734.png "JD.MovieMVC1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/155230_80bdc55d_2265734.png "JD.MovieMVC2.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/155239_c4de1090_2265734.png "JD.MovieMVC3.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/155247_a3b17b8a_2265734.png "JD.MovieMVC4.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0908/155257_58cc1e73_2265734.png "JD.MovieMVC5.png")
